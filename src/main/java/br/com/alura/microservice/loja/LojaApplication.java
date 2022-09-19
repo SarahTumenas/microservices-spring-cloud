@@ -1,4 +1,4 @@
-package br.com.alura.microservice.loja.loja;
+package br.com.alura.microservice.loja;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
