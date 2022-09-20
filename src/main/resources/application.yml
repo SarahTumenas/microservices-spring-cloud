@@ -3,10 +3,9 @@ server:
   port: 8888
 
 spring:
-  profiles:
-    active: native
   cloud:
     config:
       server:
-        native:
-          search-locations: c:/Estudo/Microservices Spring Cloud/microservice-repo
+        git:
+          uri: https://github.com/SarahTumenas/microservices-spring-cloud/tree/microservice-repo
+          search-paths: fornecedor
