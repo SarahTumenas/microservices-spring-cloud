@@ -6,6 +6,8 @@ spring:
   cloud:
     config:
       server:
+        encrypt:
+          enabled: false
         git:
           uri: https://github.com/SarahTumenas/microservices-spring-cloud/tree/microservice-repo
-          search-paths: fornecedor
+          search-paths: fornecedor, loja
