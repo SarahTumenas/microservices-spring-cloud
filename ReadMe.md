@@ -1,4 +1,8 @@
-# Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing
+# Microservices com Spring Cloud: 
+
+_____________________________________________________________________________________________________
+
+# Registry, Config Server e Distributed Tracing
 
 ## Tópicos abordados:
 
@@ -7,6 +11,17 @@
 - Centralização das configurações com Spring Config Server
 - Aumentar a disponibilidade com Client-side Load Balancer
 - Monitorar e depurar requisições com Distributed Tracing
+_____________________________________________________________________________________________________
+
+# Circuit Breaker, Hystrix e API Gateway
+
+## Tópicos abordados:
+
+- API Gateway com Spring Zuul
+- Autenticação e autorização com token
+- Tratamento de erros em um sistema distribuído
+- Alta disponibilidade com Bulkhead
+- Fallback e Circuit Breaker
 
 -----------------------------------------------------------------------------------------------------
 ## Componentes:
