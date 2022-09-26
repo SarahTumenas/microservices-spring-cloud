@@ -10,4 +10,4 @@ spring:
           enabled: false
         git:
           uri: https://github.com/SarahTumenas/microservices-spring-cloud/
-          search-paths: fornecedor, loja
+          search-paths: fornecedor, loja, transportador
