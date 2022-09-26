@@ -9,5 +9,5 @@ spring:
         encrypt:
           enabled: false
         git:
-          uri: https://github.com/SarahTumenas/microservices-spring-cloud/tree/microservice-repo
+          uri: https://github.com/SarahTumenas/microservices-spring-cloud/
           search-paths: fornecedor, loja
