@@ -41,6 +41,9 @@ ________________________________________________________________________________
 
 (https://github.com/SarahTumenas/microservices-spring-cloud/tree/config-server)
 
-### Microservice-repo
+### MS-Transportador
 
-(https://github.com/SarahTumenas/microservices-spring-cloud/tree/microservice-repo)
+(https://github.com/SarahTumenas/microservices-spring-cloud/tree/ms-transportador)
+
+### Api-Gateway
+(https://github.com/SarahTumenas/microservices-spring-cloud/tree/api-gateway)
