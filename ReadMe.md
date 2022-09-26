@@ -47,3 +47,6 @@ ________________________________________________________________________________
 
 ### Api-Gateway
 (https://github.com/SarahTumenas/microservices-spring-cloud/tree/api-gateway)
+
+### Auth
+(https://github.com/SarahTumenas/microservices-spring-cloud/tree/auth)
